@@ -1,0 +1,6 @@
+Debug
+.git
+.settings
+*.cfg
+.*project
+*ld
