@@ -6,6 +6,12 @@ A simple Exterian Interrupt (EXTI) template project for STM32F407VGT6 prepared u
 This is a simple differential-drive robot haused in single floor building simulated in Gazebo.
 The robot is controlled by ROS. The robot is equipped with camera and Hokuyo laser scaner. 
 
+<p align="center">
+  <img width="460" height="300" src="images/board.jpg">
+  <br>A STM32F4Discovery board with green LED flashed after pushing User button
+</p>
+
+
 ## How to use
 
 * Clone or fork this repo
